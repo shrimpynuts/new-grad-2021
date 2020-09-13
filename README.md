@@ -1,6 +1,6 @@
 # New Grad Jobs 2021
 | Companies | Job Posting | Career Page |
-| PUBLIC | - | - |
+|-|-|-|
 | Facebook |  |  |
 | Google |  | careers.google.com/students |
 | Apple | [SWE](https://jobs.apple.com/en-us/details/200161256/software-engineer-ml-platform) |  |
@@ -15,7 +15,7 @@
 | Bloomberg | [SWE](https://careers.bloomberg.com/job/detail/840144) |  |
 | Apple | [SWE](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) |  |
 | MongoDB | [SWE](https://www.mongodb.com/careers/jobs/2309034?gh_src=0wcvpq1) |  |
-| STARTUP | - | - |
+| - | - | - |
 | Airbnb |  | https://careers.airbnb.com/university/ |
 | Cruise |  | https://boards.greenhouse.io/cruiseuniversity |
 | DoorDash |  | https://www.doordash.com/careers/ |
@@ -40,12 +40,13 @@
 | Twilio | [SWE](https://boards.greenhouse.io/twilio/jobs/2321815) |  |
 | c3.ai | [SWE](https://c3.ai/job-description/?gh_jid=4416889002) |  |
 | Plaid | [SWE](https://jobs.lever.co/plaid/58690464-4e63-4180-8dc7-a1e87a18fb6d) |  |
-| FINANCE | - | - || Akuna Capital | [Quant](https://akunacapital.com/job-details?gh_jid=2231479) |  |
+| - | - | - |
+| Akuna Capital | [Quant](https://akunacapital.com/job-details?gh_jid=2231479) |  |
 | Two Sigma | [Quant](https://careers.twosigma.com/careers/Careers?jobId=6674&source=Direct+Applicant&tags=handshake) |  |
 | D.E. Shaw | [Quant](https://www.deshaw.com/careers/software-developer-new-york-2646) |  |
 | Jane Street | [Quant](https://www.janestreet.com/join-jane-street/position/4746601002/) |  |
 | Citadel | [Quant](https://www.citadel.com/careers/details/quantitative-researcher-full-time-us-2/) |  |
 | DRW | [Quant](https://boards.greenhouse.io/drweng/jobs/2198080?gh_src=8d0371621us) |  |
-| PRODUCT MANAGEMENT | - | - |
+| - | - | - |
 | PayPal | [PM](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager---University-Graduate_R0057797?source=PayPalJobs) |  |
 | Instacart | [APM](https://instacart.careers/job/?id=2291973) |  |
